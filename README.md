@@ -9,6 +9,8 @@ Siamese Neural Networks
 
 ## Result
 - I used different colors to visualize the embeddings points of train and test data sets in two dimensions.
+
 <p align="center"> <img src="./common/siamese_mnist_train.jpg" width="320", height="240"> <img src="./common/siamese_mnist_test.jpg" width="320", height="240"> </p>
 <p align="center"> <img src="./contrastive/siamese_mnist_train.jpg" width="320", height="240"> <img src="./contrastive/siamese_mnist_test.jpg" width="320", height="240"> </p>
-- embedding points and training logs can be find in corresponding directory ([common](./common)/[contrastive](./contrastive)).
+
+- Embedding points and training logs can be find in corresponding directory ([common](./common)/[contrastive](./contrastive)).
